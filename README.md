@@ -1,5 +1,5 @@
 # Untitled Roguelike
-Source code for my Playdate "Broughlike" game. Features strategic turn-based grid movement and battles. Play as 6 different classes against a host of different enemies in increasing levels of difficulty. Adapted to Lua and the Playdate from this [JavaScript Broughlike Tutorial](https://nluqo.github.io/broughlike-tutorial/).
+Source code for my Playdate "Broughlike" game. Features strategic turn-based grid movement and battles. Play as 6 different classes against a host of different enemies in increasing levels of difficulty. Adapted to Lua and the Playdate from this [JavaScript Broughlike Tutorial](https://nluqo.github.io/broughlike-tutorial/). You can find the game on [Itch IO](https://squidgod.itch.io/untitled-roguelike).
 
 <img src="https://github.com/user-attachments/assets/0095d1b3-9374-4311-bb7f-c87996632b71" width="400" height="240"/>
 <img src="https://github.com/user-attachments/assets/9ddee7b2-e9ca-4d0f-8014-bcf0cc9a52f4" width="400" height="240"/>
